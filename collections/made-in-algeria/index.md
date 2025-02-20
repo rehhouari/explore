@@ -23,6 +23,10 @@ items:
  - linuxscout/ghalatawi
  - linuxscout/qalsadi
  - linuxscout/mishkal
+ - pinecone-router/router
+ - rehhouari/alpinejs-i18n
+ - rehhouari/WeightedChoice
+ - rehhouari/gnome-shell-extension-syncthing-toggle
 display_name: Made in Algeria
 created_by: the-dijkstra
 image: made-in-algeria.png
